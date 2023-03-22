@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class StableMatching02 {
+public class StableMatching {
 
     public static void main(String[] args) {
 
