@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class ProblemA {
+public class ProblemB {
     //static int N = 10000;
     public static void main(String[] args) {
 
